@@ -11,21 +11,21 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Esporte',
+    'Qual o papel do treinador no esporte?',
+    'Ele orienta, motiva e desenvolve as habilidades dos atletas para melhorar o desempenho'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Moda',
+    'Qual a importância dos acessórios na moda?',
+    'Acessórios complementam o visual, acrescentam estilo e ajudam a personalizar a aparência'
 )
 
 criaCartao(
-    'Matemática',
-    'Como se calcula a área de um triângulo?',
-    'A área de um triângulo qualquer pode ser calculada, multiplicando a base pela sua altura e dividindo esse resultado por 2.'
+    'Academia',
+    'Por que aquecer antes do treino?',
+    'O aquecimento prepara os músculos, reduz o risco  lesões e melhora o desempenho no exercício.'
 
 )
 criaCartao(
